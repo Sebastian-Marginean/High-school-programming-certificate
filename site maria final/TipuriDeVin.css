@@ -1,0 +1,59 @@
+nav.
+header.
+footer {
+    display: block;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.Nav{
+    color: white
+}
+.Nav:hover{
+    color: gray
+}
+
+
+.w3-row{
+    background: rgb(23,13,10);
+    font-weight: bold;
+    font-style: oblique;
+    text-align: center;
+}
+
+.w3-col:hover{
+    font-weight: bold;
+    font-style: oblique;
+    text-align: center;
+}
+body{
+    background-color: black;
+}
+img{
+    border-radius: 50%;
+}
+.vin-alb{
+    text-align: center;
+    color: white;
+}
+.PrimulDivTipuri{
+    color: white;
+    text-align: center;
+}
+
+footer.foot {
+    text-align: center;
+    color:white;
+   background: rgb(0,0,0);
+background: linear-gradient(180deg, rgba(0,0,0,1) 43%, rgba(255,254,254,1) 91%);
+    display: block;
+}
+
+div.Social-media {
+    font-size: 75px
+}
+.maria{
+    color:black;
+}
